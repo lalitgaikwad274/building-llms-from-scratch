@@ -1,0 +1,11 @@
+Hello world.
+Hello AI.
+
+I love AI.
+AI loves Python.
+Python is awesome.
+
+Large Language Models are amazing.
+Transformers changed AI forever.
+
+ChatGPT is based on transformers.
