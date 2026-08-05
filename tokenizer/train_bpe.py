@@ -1,4 +1,4 @@
-from bpe import get_pair_counts, merge_pair, split_words
+from tokenizer.bpe import get_pair_counts, merge_pair, split_words
 
 words = split_words("low lower lowest")
 
