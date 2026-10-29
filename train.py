@@ -1,4 +1,4 @@
-from tokenizer import Tokenizer
+from tokenizer.tokenizer import Tokenizer
 
 with open("dataset.txt") as f:
     text = f.read()
